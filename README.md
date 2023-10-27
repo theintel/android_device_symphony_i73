@@ -8,7 +8,7 @@ Resources for users of Symphony i73
 
 Basic   | Spec Sheet
 -------:|:-------------------------
-OS	| Android 8.0 (Oreo), upgradable to Android 8.1	
+OS						| Android 11.0
 CPU     | Quad-core 1.5 GHz Cortex-A53
 Chipset | Mediatek MT6739WW (28 nm)
 GPU     | PowerVR GE8100
